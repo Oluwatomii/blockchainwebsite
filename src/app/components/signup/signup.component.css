@@ -1,0 +1,47 @@
+.signupform{
+    width: 500px;
+    height: 420px;
+    color: grey;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+}
+.form-container{
+    border: 1px solid white;
+    padding: 30px 40px;
+    margin-top: -3vh;
+    -webkit-box-shadow:-1px 4px 26px 11px rgba(0,0,0,0.75);
+    box-shadow:-1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+.form-group input[type="email"], input[type="password"], input[type="text"]{
+    padding-left:40px;
+}
+.form-group{
+    position: relative;
+}
+.form-group i{
+    position: absolute;
+    left: 0;
+    top: 5px;
+    padding: 9px 8px;
+}
+.btn{
+    background: rgb(85, 0, 85);
+}
+.terms{
+    text-align: center;
+}
+.terms a{
+    color: blueviolet;
+}
+.loginbox{
+    color: grey;
+    top: 80%;
+    left: 42%;
+    position: absolute;
+}
+.loginclass{
+    text-align: right;
+}
