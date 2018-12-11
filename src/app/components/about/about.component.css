@@ -1,0 +1,16 @@
+.aboutbox{
+    color: grey;
+    top: 10%;
+    position: absolute;
+}
+.about-header, .about-mission, .about-vision{
+    text-align: center;
+    color: purple;
+    letter-spacing: 1px
+}
+.about-mission{
+    margin-top: 10%;
+}
+.about-vision{
+    margin-top: 10%;
+}

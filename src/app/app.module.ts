@@ -5,8 +5,6 @@ import { AppRoutingModule, routingComponents } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ForumComponent } from './components/forum/forum.component';
 import { CommunityComponent } from './components/community/community.component';
-import { AboutComponent } from './components/about/about.component';
-import { FaqComponent } from './components/faq/faq.component';
 import { AccountComponent } from './components/account/account.component';
 
 @NgModule({
@@ -15,8 +13,6 @@ import { AccountComponent } from './components/account/account.component';
     routingComponents,
     ForumComponent,
     CommunityComponent,
-    AboutComponent,
-    FaqComponent,
     AccountComponent
   ],
   imports: [
