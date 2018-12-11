@@ -2,6 +2,8 @@
     color: grey;
     top: 10%;
     position: absolute;
+    margin-left:100px;
+    margin-right: 100px;
 }
 .about-header, .about-mission, .about-vision{
     text-align: center;
